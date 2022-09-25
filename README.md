@@ -1,5 +1,7 @@
 # Assignment
 Assignment Vivriti Capital
+
+
 Average text file contains the program to find the average of a list of integers in java.
 
 
